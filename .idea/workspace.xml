@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1a9fb854-d219-4437-962a-eb7b4d3992c5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/yandex/praktikum/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/yandex/praktikum/Praktikum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ru/yandex/praktikum/AccountParamTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/allure-results/28f2ba33-b46c-42bd-995d-3175584c166a-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/allure-results/35e903db-9888-48bb-9410-19698229ddeb-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/allure-results/3f984f62-8d27-4646-8a10-8604846ffe20-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/allure-results/4fb60319-c9a4-4b05-8ab5-786af943a3af-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/allure-results/72474b7e-3698-45cb-9367-1f64097ac224-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/allure-results/866598b9-24e4-4e18-b1ac-1c7eb4920d8a-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/allure-results/86cac43b-1e3d-4163-a17e-00a926361026-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/allure-results/a7afed7e-1562-4da9-a631-6080a3b90481-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/allure-results/allure.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/allure-results/c17a2791-c677-44ad-9a77-d600db178e3a-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/allure-results/d5669db8-7694-4d9b-a863-e5729eff7e64-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/allure-results/executor.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2KoeayH2rx8WOviTepHWUuUaogY" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/user/IdeaProjects/Sprint_7"
+  }
+}]]></component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn clean test" />
+      <command value="mvn allure:serve" />
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.AccountParamTest.checkNameTest">
+    <configuration name="Praktikum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.yandex.praktikum.Praktikum" />
+      <module name="Sprint_8" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.yandex.praktikum.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AccountParamTest.checkNameTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Sprint_8" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.yandex.praktikum.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.yandex.praktikum" />
+      <option name="MAIN_CLASS_NAME" value="ru.yandex.praktikum.AccountParamTest" />
+      <option name="METHOD_NAME" value="checkNameTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.AccountParamTest.checkNameTest" />
+        <item itemvalue="Application.Praktikum" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1a9fb854-d219-4437-962a-eb7b4d3992c5" name="Changes" comment="" />
+      <created>1674645431513</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1674645431513</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
